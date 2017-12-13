@@ -10,5 +10,4 @@ S. Kriegman, N. Cheney, J. Bongard<br>
 If using this code for academic purposes, please cite the paper above.
 
 
-#### For a more general repository to fork, check out <a href="https://github.com/skriegman/evosoro">evosoro</a> 
-##### evosoro provides additional examples in different environments and with various evolutionary tool sets.
+#### For a more general repository to fork, check out <a href="https://github.com/skriegman/evosoro">evosoro</a> wich provides additional examples in different environments and with various evolutionary tool sets.
