@@ -10,3 +10,4 @@ S. Kriegman, N. Cheney, J. Bongard<br>
 If using this code for academic purposes, please cite the paper above.
 
 
+#### For a more general repo check out <a href="https://github.com/skriegman/evosoro">evosoro</a> which provides additional examples in different environments and with various evolutionary tool sets.
