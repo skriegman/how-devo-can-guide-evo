@@ -4,6 +4,7 @@ This repository contains the code used for experiments presented in the followin
 
 _How morphological development can guide evolution_<br>
 S. Kriegman, N. Cheney, J. Bongard<br>
+Nature Scientific Reports, 2018.<br>
 [<a href="https://www.nature.com/articles/s41598-018-31868-7">HTML</a>  |  <a href="https://arxiv.org/pdf/1711.07387.pdf">PDF</a> | <a href="https://youtu.be/Ee2sU-AZWC4">VID</a> ] <br>
 
 
